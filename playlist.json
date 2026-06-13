@@ -1,1 +1,26 @@
-
+[
+  {
+    "title": "Aayat",
+    "artist": "Bajirao Mastani",
+    "audioUrl": "https://raw.githubusercontent.com/wbumynkkk/wavv-stream-cloud/main/Aayat.mp3",
+    "coverUrl": "https://raw.githubusercontent.com/wbumynkkk/wavv-stream-cloud/main/Bajirao.jpg"
+  },
+  {
+    "title": "Deewani Mastani",
+    "artist": "Bajirao Mastani",
+    "audioUrl": "https://raw.githubusercontent.com/wbumynkkk/wavv-stream-cloud/main/Deewani-Mastani.mp3",
+    "coverUrl": "https://raw.githubusercontent.com/wbumynkkk/wavv-stream-cloud/main/Bajirao.jpg"
+  },
+  {
+    "title": "Nashe Si Chadh Gayi",
+    "artist": "Befikre",
+    "audioUrl": "https://raw.githubusercontent.com/wbumynkkk/wavv-stream-cloud/main/Nashe-Si-Chadh-Gayi.mp3",
+    "coverUrl": "https://raw.githubusercontent.com/wbumynkkk/wavv-stream-cloud/main/Befikre.jpg"
+  },
+  {
+    "title": "Besharmi Ki Height",
+    "artist": "Main Tera Hero",
+    "audioUrl": "https://raw.githubusercontent.com/wbumynkkk/wavv-stream-cloud/main/Besharmi-Ki-Height.mp3",
+    "coverUrl": "https://raw.githubusercontent.com/wbumynkkk/wavv-stream-cloud/main/Main-Tera-Hero-2014-500x500.jpg"
+  }
+]
